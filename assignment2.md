@@ -16,7 +16,9 @@ Q: 从软件本质的角度，解释软件范围（需求）控制的可行性
 
 2.实践题
 - 看板
-!()[https://github.com/qw1998/xitongfenxi/blob/master/pic/%E7%9C%8B%E6%9D%BF%E8%AF%95%E7%94%A8.jpg]
+
+!(看板)[https://github.com/qw1998/xitongfenxi/blob/master/pic/%E7%9C%8B%E6%9D%BF%E8%AF%95%E7%94%A8.jpg]
 
 - UML练习
-!()[https://github.com/qw1998/xitongfenxi/blob/master/pic/UML.jpg]
+
+!(UML)[https://github.com/qw1998/xitongfenxi/blob/master/pic/UML.jpg]
