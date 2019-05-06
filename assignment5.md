@@ -21,7 +21,7 @@
    - 选择支付账户，选择支付账户可以调用外部接口
    - 填写必要信息
 
-![1557151045341](C:\Users\hp-pc\AppData\Roaming\Typora\typora-user-images\1557151045341.png)
+![1557151045341](https://github.com/qw1998/xitongfenxi/blob/master/pic/5_1.jpg)
 
 #### Make reservation 活动图
 
@@ -37,30 +37,30 @@
 
 整体流程：快递员登录->存放快递->短信平台发送短信->收件人凭短信信息取件
 
-![1557152265800](C:\Users\hp-pc\AppData\Roaming\Typora\typora-user-images\1557152265800.png)
+![1557152265800](https://github.com/qw1998/xitongfenxi/blob/master/pic/5_2.jpg)
 
 ##### 业务2
 
 整体流程：快递员扫描二维码登录->公司认证身份->快递员扫描单号->存放快递->快递公司发送短信->收件人凭短信信息取件
 
-![1557152811390](C:\Users\hp-pc\AppData\Roaming\Typora\typora-user-images\1557152811390.png)
+![1557152811390](https://github.com/qw1998/xitongfenxi/blob/master/pic/5_3.jpg)
 
 ##### 业务3
 
 整体流程：快递员扫描二维码登录->公司认证身份->快递员扫描单号->存放快递->判断用户是否关注公众号->(快递公司/公众号)发送短信->收件人凭短信信息取件
 
-![1557153775057](C:\Users\hp-pc\AppData\Roaming\Typora\typora-user-images\1557153775057.png)
+![1557153775057](https://github.com/qw1998/xitongfenxi/blob/master/pic/5_4.jpg)
 
 #### 用例图
 
 ##### 业务1
 
-![1557153214965](C:\Users\hp-pc\AppData\Roaming\Typora\typora-user-images\1557153214965.png)
+![1557153214965](https://github.com/qw1998/xitongfenxi/blob/master/pic/5_5.jpg)
 
 ##### 业务2
 
-![1557153475226](C:\Users\hp-pc\AppData\Roaming\Typora\typora-user-images\1557153475226.png)
+![1557153475226](https://github.com/qw1998/xitongfenxi/blob/master/pic/5_6.jpg)
 
 ##### 业务3
 
-![1557153541871](C:\Users\hp-pc\AppData\Roaming\Typora\typora-user-images\1557153541871.png)
+![1557153541871](https://github.com/qw1998/xitongfenxi/blob/master/pic/5_7.jpg)
