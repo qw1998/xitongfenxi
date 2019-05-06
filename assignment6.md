@@ -34,6 +34,6 @@
     CardHolder(ID/key, Title, FirstName, LastName, Address1, Address2, City, CountyOrState, Country, Postcode, DaytimeTelephone, EveningTelephone)
     ```
 
-## ### . Reservation生命周期建模
+### Reservation生命周期建模
 
 ![](https://github.com/qw1998/xitongfenxi/blob/master/pic/6_1.jpg)
